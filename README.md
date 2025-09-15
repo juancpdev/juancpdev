@@ -1,21 +1,21 @@
 ![portada jpdev github](https://github.com/juancpdev/Sobre-mi/assets/102560793/4fbfa028-0207-41c9-9b2e-6c20e36446c7)
 
-# Hola, Soy Juan Cruz Pineda 👋
+# Hi, I'm Juan Cruz Pineda 👋
 
-### Sobre mí:
-👨‍💻 Desarrollador Web Full-Stack con sólidos conocimientos en HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, Node, Express, MySQL, PostgreSQL, MongoDB , entre otras tecnologías y frameworks. 🛠️ Conocimiento en diseño UX/UI 🎨 y capacidad para crear páginas web responsive 💻📱. A lo largo de los últimos años, he mejorado y perfeccionado mis competencias como desarrollador web 🚀. Me he mantenido en constante aprendizaje 📚 y tuve la oportunidad de aplicar mis conocimientos en una amplia variedad de proyectos 🌐."
+### About me:
+👨‍💻 Full-Stack Web Developer with solid knowledge in HTML, CSS, TailwindCSS, JavaScript, TypeScript, React, NextJS, Node, Express, MySQL, PostgreSQL, MongoDB, among other technologies and frameworks. 🛠️ Knowledge in UX/UI design 🎨 and ability to create responsive web pages 💻📱. Over the past few years, I have improved and refined my skills as a web developer 🚀. I have kept constantly learning 📚 and had the opportunity to apply my knowledge in a wide variety of projects 🌐."
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juancpdev/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://jpdeveloper.netlify.app/)
 
-- 🌱 Actualmente estoy realizando proyectos con los stacks PERN y MERN
-- 👯 Estoy buscando nuevas oportunidades para colaborar en proyectos.
-- 💬 Si tienes alguna duda, consúltame :)
+- 🌱 I'm currently working on projects with the MERN stack.
+- 👯 I'm looking for new opportunities to collaborate on projects.
+- 💬 If you have any questions, please let me know :)
 <br/>
 
 ```js
 const jpdev = {
-  code: [HTML, CSS, JavaScript, TypeScript, React, Node],
+  code: [HTML, CSS, JavaScript, TypeScript, React, NextJS, Node],
   tools: [Git, Express, MongoDB, PostgreSQL],
 };
 ```
