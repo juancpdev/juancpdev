@@ -16,7 +16,7 @@
 ```js
 const jpdev = {
   code: [HTML, CSS, JavaScript, TypeScript, React, NextJS, Node],
-  tools: [Git, Express, MongoDB, PostgreSQL],
+  tools: [Git, Express, MongoDB, PostgreSQL, Prisma],
 };
 ```
 
